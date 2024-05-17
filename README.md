@@ -2,8 +2,7 @@
 
 <p align="center">
     <i>
-        I'm Boris, a young and promising back-end developer.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        I'm Boris, back-end developer.<br>
     </i><br>
     <a href="mailto:rizovoyb@yandex.ru">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
